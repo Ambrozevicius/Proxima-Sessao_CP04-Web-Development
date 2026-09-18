@@ -5,6 +5,7 @@ CP4 de Web Development: descubra filmes e séries e guarde suas próximas escolh
 ## Integrantes
 
  Isaac Ambrozevicius - RM569166
+ 
  João Lucca - RM569562
 
 ## Problema e solução
@@ -80,4 +81,4 @@ A IA foi utilizada como ferramenta de apoio para desenvolvimento, mais na parte 
 
 ## Publicação e links
 
-Vercel: [inserir link]
+Vercel: [https://proxima-sessao-cp-04-web-developmen.vercel.app]
